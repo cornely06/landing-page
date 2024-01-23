@@ -124,3 +124,31 @@ button {
   font-weight: 900;
   font-size: 24px;
 }
+
+.cta {
+  padding: 60px 200px;
+}
+
+.cta-body {
+  background-color: #3882F6;
+  border-radius: 12px;
+  color: #F9FAF8;
+  padding: 30px 90px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cta-header {
+  font-size:24px;
+  font-weight: bold;
+}
+
+.cta-description {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.cta button {
+  border: 2px solid white;
+  align-self: center;
+}
