@@ -6,3 +6,33 @@
 body {
   font-family: 'Roboto', sans-serif;
 }
+
+.hero {
+  background-color: #1F2937;
+}
+
+.header-logo {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+.hero-main {
+  font-size: 48px;
+  font-weight: 800;
+  color: #F9FAF8
+}
+
+.hero-secondary, .header-links a {
+  font-size: 18px;
+  color: #E5E7EB;
+  text-decoration: none;
+}
+
+button {
+  background-color: #3882F6;
+}
+
+.img-placeholder {
+  background-color: #a9a9a9;
+  color: #F9FAF8;
+}
