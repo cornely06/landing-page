@@ -9,6 +9,11 @@ body {
 
 .hero {
   background-color: #1F2937;
+  padding: 0px 120px;
+}
+
+.header {
+  display: flex;
 }
 
 .header-logo {
@@ -26,6 +31,10 @@ body {
   font-size: 18px;
   color: #E5E7EB;
   text-decoration: none;
+}
+
+.header-links {
+  list-style: none;
 }
 
 button {
